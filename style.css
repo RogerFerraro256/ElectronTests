@@ -1,0 +1,11 @@
+#outsideSquare{
+    background-color: blue;
+    width: 400;
+    height: 400;
+}
+
+.insideBlack{
+    background-color: black;
+    width: 50;
+    height: 50;
+}

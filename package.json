@@ -1,0 +1,14 @@
+{
+  "name": "electrontest",
+  "version": "0.0.1",
+  "description": "just testing the electron framework",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Roger Ferraro",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^4.0.0"
+  }
+}
